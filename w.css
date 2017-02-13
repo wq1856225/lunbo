@@ -1,0 +1,19 @@
+.cross{
+    width: 500px;
+    height: 350px;
+    overflow: auto;
+
+}
+.u{
+    padding: 0;
+    margin:0;
+    width: 2000px;
+    height: 350px;
+    list-style: none;
+}
+.u li{
+    list-style: none;
+    padding: 0;
+    margin:0;
+    float: left;
+}
